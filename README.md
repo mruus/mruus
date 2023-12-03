@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 ## 📚 About Me
 
 - 👨‍💻 Software Engineer
-- 🌐 [Portfolio](https://mruus.vercel.app)
+- 🌐 [Portfolio](https://mruus.com)
 - 📧 Email: [mansuurtech101@gmail.com](mailto:mansuurtech101@gmail.com)
 
 ## 🚀 My Skills
